@@ -160,7 +160,7 @@ dependencyVerification {
 
 android {
     compileSdkVersion 22
-    buildToolsVersion '23.0.2'
+    buildToolsVersion '25.0.0'
 
     dexOptions {
         javaMaxHeapSize "4g"
